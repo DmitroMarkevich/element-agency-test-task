@@ -1,0 +1,4 @@
+.alert-danger,
+.alert-danger * {
+    color: #fff !important;
+}
